@@ -1,0 +1,6 @@
+Part
+2-1: SELECT name FROM types;
+2-2: SELECT * FROM pokemons WHERE ID=45;
+2-3: SELECT COUNT(*) FROM pokemons;
+2-4: SELECT COUNT(*) FROM types;
+2-5: SELECT * FROM pokemons WHERE secondary_type IS NOT NULL;
